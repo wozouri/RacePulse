@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo.png</file>
+        <file>images/main_bg.png</file>
+        <file>images/close.png</file>
+        <file>images/help.png</file>
+        <file>images/maxus.png</file>
+        <file>images/minus.png</file>
+        <file>images/close_b.png</file>
+        <file>images/avatar.png</file>
+        <file>images/bg_p-b.png</file>
+        <file>images/bg_b-p.png</file>
+        <file>images/search_black.svg</file>
+        <file>images/search_blue.svg</file>
+        <file>images/maxmize.svg</file>
+        <file>images/normal.svg</file>
+        <file>images/minmize.svg</file>
+        <file>images/close_w.png</file>
+    </qresource>
+</RCC>
